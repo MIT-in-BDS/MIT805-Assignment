@@ -4,7 +4,7 @@
 
 This repository contains our MIT 805 Big Data Project for 2026.
 
-The project investigates the **Cosmopedia** dataset using **PySpark** for large-scale data processing and exploratory data analysis (EDA).
+The project investigates the Cosmopedia dataset using PySpark for large-scale data processing and exploratory data analysis (EDA).
 
 The main objectives are to:
 
@@ -22,7 +22,7 @@ The main objectives are to:
 
 ### Cosmopedia
 
-The dataset used in this project is **Cosmopedia**, a large-scale collection of synthetic educational content.
+The dataset used in this project is Cosmopedia, a large-scale collection of synthetic educational content.
 
 **Dataset source:**
 
@@ -42,35 +42,4 @@ The dataset is stored in **Parquet** format.
 
 The raw, working, and processing dataset sizes are reported separately in accordance with the MIT 805 project requirements.
 
-For Part 2, a representative subset of the available data may be processed using PySpark so that meaningful distributed processing can be demonstrated within the available Google Colab resources.
-
-> **Important:** The full dataset is not uploaded to this GitHub repository. The repository provides instructions for obtaining the dataset from its original public source.
-
 ---
-
-## Project Structure
-
-```text
-project/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│   └── README.md
-│
-├── notebooks/
-│   ├── COSMOPEDIA_MIT805_Cleaning_EDA_Notebook_FIXED.ipynb
-│   └── ...
-│
-├── src/
-│   └── ...
-│
-├── output/
-│   └── ...
-│
-├── figures/
-│   └── ...
-│
-└── report/
-    └── ...
