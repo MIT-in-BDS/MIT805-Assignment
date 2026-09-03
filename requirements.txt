@@ -1,0 +1,15 @@
+pyspark
+pandas
+numpy
+pyarrow
+huggingface_hub
+datasets
+matplotlib
+seaborn
+scikit-learn
+torch
+transformers
+sentence-transformers
+accelerate
+jupyter
+ipykernel
