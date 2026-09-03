@@ -1,0 +1,6 @@
+Raw public download size (web_samples_v1): 38.98 GB
+Raw public dataset size (web_samples_v1): 69.08 GB
+Working dataset size on disk: 38.98 GB
+Working records: 12,426,348
+Processing dataset size: 3.93 GB
+Processing records: 1,251,575
